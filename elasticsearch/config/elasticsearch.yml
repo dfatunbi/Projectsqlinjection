@@ -1,0 +1,6 @@
+path:
+  data: /data/data
+  logs: /data/log
+  plugins: /plugins
+  work: /work
+  script.groovy.sandbox.enabled: true
